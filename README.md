@@ -1,39 +1,86 @@
-# Hi there 👋 I'm Harsh Verma
+<!-- Animated header banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harsh%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20API%20Security%20Enthusiast&descSize=20&descAlignY=60" alt="header banner" />
+</div>
 
-Aspiring web developer with a focus on **Java** and **API security**. I like building things that are useful, and then breaking them to make them safer.
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Harsh+%F0%9F%91%8B;Aspiring+Java+Web+Developer;Building+API+Security+Monitoring+tools;Detecting+threats+with+Machine+Learning;Always+learning%2C+always+building" alt="Typing animation" />
+  </a>
+</div>
 
-## 🔭 What I'm working on
-
-**API Security Monitor** – a system that watches API traffic and flags suspicious behavior in real time.
-
-- 🧱 Flask mock API behind a proxy gateway
-- 🛡️ Rule-based threat detection engine
-- 🤖 Machine-learning anomaly detection using Isolation Forest
-- 📊 Streamlit dashboard for live monitoring
-- 🗄️ SQLite + SQLAlchemy for storing events
-- 🚦 Traffic simulator for generating normal and attack traffic
-
-## 🛠️ Tech stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 🌱 Currently learning
-
-- Web development with Java
-- Securing APIs and detecting anomalous traffic
-
-## 📫 Reach me
-
-- GitHub: [@<YOUR-USERNAME>](https://github.com/<harshhmaybee>)
-- LinkedIn: <https://www.linkedin.com/in/vermaharsh1611/?isSelfProfile=true>
-- Email: vermaharsh.1611@gmail.com
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshhmaybee&label=Profile+views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</div>
 
 ---
 
-⭐ If you like something here, feel free to star a repo!
+## 👨‍💻 About Me
+
+- 🎓 Aspiring **web developer** focused on **Java**
+- 🔐 Passionate about **API security** and anomaly detection
+- 🌱 Currently learning web development with Java and securing APIs
+- 📫 Reach me at **vermaharsh.1611@gmail.com**
+
+---
+
+## 🔭 Featured Project: API Security Monitor
+
+A system that watches API traffic and flags suspicious behavior in real time.
+
+| Component | What it does |
+|---|---|
+| 🧱 **Flask Mock API + Proxy Gateway** | Simulates a real API and intercepts every request |
+| 🛡️ **Rule-based Threat Engine** | Catches known attack patterns instantly |
+| 🤖 **Isolation Forest ML Engine** | Detects unusual, never-seen-before behavior |
+| 📊 **Streamlit Dashboard** | Live monitoring of traffic and alerts |
+| 🗄️ **SQLite + SQLAlchemy** | Stores events and detections |
+| 🚦 **Traffic Simulator** | Generates normal and attack traffic for testing |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,flask,spring,sqlite,html,css,js,git,github&perline=10" alt="tech stack" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshhmaybee&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhmaybee&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=harshhmaybee&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshhmaybee&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/harshhmaybee/harshhmaybee/output/github-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://github.com/harshhmaybee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:vermaharsh.1611@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vermaharsh1611/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+</div>
