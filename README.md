@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Harsh+%F0%9F%91%8B;Aspiring+Java+Web+Developer;Building+API+Security+Monitoring+tools;Detecting+threats+with+Machine+Learning;Always+learning%2C+always+building" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Harsh+%F0%9F%91%8B;Aspiring+Java+Web+Developer;Always+learning%2C+always+building" alt="Typing animation" />
   </a>
 </div>
 
@@ -22,21 +22,6 @@
 - 🔐 Passionate about **API security** and anomaly detection
 - 🌱 Currently learning web development with Java and securing APIs
 - 📫 Reach me at **vermaharsh.1611@gmail.com**
-
----
-
-## 🔭 Featured Project: API Security Monitor
-
-A system that watches API traffic and flags suspicious behavior in real time.
-
-| Component | What it does |
-|---|---|
-| 🧱 **Flask Mock API + Proxy Gateway** | Simulates a real API and intercepts every request |
-| 🛡️ **Rule-based Threat Engine** | Catches known attack patterns instantly |
-| 🤖 **Isolation Forest ML Engine** | Detects unusual, never-seen-before behavior |
-| 📊 **Streamlit Dashboard** | Live monitoring of traffic and alerts |
-| 🗄️ **SQLite + SQLAlchemy** | Stores events and detections |
-| 🚦 **Traffic Simulator** | Generates normal and attack traffic for testing |
 
 ---
 
