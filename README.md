@@ -51,16 +51,15 @@ A system that watches API traffic and flags suspicious behavior in real time.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshhmaybee&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhmaybee&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=harshhmaybee&show_icons=true&theme=tokyonight&hide_border=true&card_width=600" alt="stats" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshhmaybee&theme=tokyonight&hide_border=true" alt="streak" />
+  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhmaybee&layout=compact&theme=tokyonight&hide_border=true&card_width=600" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshhmaybee&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  <img width="600" src="https://streak-stats.demolab.com?user=harshhmaybee&theme=tokyonight&hide_border=true&card_width=600" alt="streak" />
 </div>
 
 ---
